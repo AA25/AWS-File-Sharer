@@ -1,7 +1,7 @@
 # AWS 'Serverless' File Sharing Application (2018)
 View site at https://d2op7wn4gyw9el.cloudfront.net/index.html
 
-Use the following test account - username: Letmein123$ - password: Letmein123$
+<b>If you're interested, use the following test account - username: Letmein123$ - password: Letmein123$</b>
 
 The diagram below is a high level view of the systems architecture
 
