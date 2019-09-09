@@ -1,5 +1,5 @@
 # AWS 'Serverless' File Sharing Application (2018)
-View site at https://dvm02syxz94la.cloudfront.net/index.html 
+View site at https://d2op7wn4gyw9el.cloudfront.net/index.html
 
 Use the following test account - username: Letmein123$ - password: Letmein123$
 
