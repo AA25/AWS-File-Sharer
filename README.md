@@ -8,3 +8,5 @@ The diagram below is a high level view of the systems architecture
 ![awsFileSharerDesign](https://i.imgur.com/O4es9lD.png)
 
 This application was meant to represent an internal file sharing application within an organisation. Where the system admin would create an account for employees therefore giving them access to the file sharing dashboard. A user can upload and download files to the 'cloud'. All files can be seen and downloaded by all users on the system. Once a file has been uploaded it can be deleted or updated only by the original uploader.
+
+Designing and developing this application with an AWS ‘serverless’ architecture design, has given me a high-level perspective on the system design considerations that goes behind building large scale applications e.g. scalability, security and availability.
